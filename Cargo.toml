@@ -1,0 +1,13 @@
+[package]
+name = "pexels-uri"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Emil Sivervik <emil@sivervik.com>"]
+description = "Create URI's for Pexels API"
+keywords = ["pexels", "pexels-api", "api", "uri", "uri-builder"]
+readme = "README.md"
+repository = "https://github.com/emilsivervik/pexels-uri-rs"
+
+[dependencies]
+url = "2.3.1"
